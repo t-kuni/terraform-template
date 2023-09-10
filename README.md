@@ -21,6 +21,8 @@ cp terraform.tfvars.example terraform.tfvars
 terraform init
 ```
 
+※AWSのprofileを指定する場合は先頭に `AWS_PROFILE=xxx` を付ける
+
 5. `variables.tf`のプロジェクト名(`project_name`)を変更する  
 （使わないなら削除しても良い）
 
