@@ -1,1 +1,8 @@
-example_variable = xxxx
+# project
+project_name = "aws_auth_example"
+project_name_hyphen = "aws-auth-example"
+project_name_pascal = "AwsAuthExample"
+
+# aws
+aws_region = "ap-northeast-1"
+aws_account_id = "xxxx"

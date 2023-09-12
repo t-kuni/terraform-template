@@ -18,6 +18,7 @@ cp terraform.tfvars.example terraform.tfvars
 4. terraformを初期化する
 
 ```
+export AWS_PROFILE=xxx
 terraform init
 ```
 

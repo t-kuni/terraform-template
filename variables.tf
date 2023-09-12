@@ -1,11 +1,16 @@
-variable "example_variable" {
-  default = "xxxx"
-}
-
 variable "project_name" {
-  default = "example_project"
 }
 
+// S3の名前などで使用
 variable "project_name_hyphen" {
-  default = "example-project"
+}
+
+// IAMロールの名前などで使用
+variable "project_name_pascal" {
+}
+
+variable "aws_region" {
+}
+
+variable "aws_account_id" {
 }
