@@ -1,6 +1,6 @@
 # terraform-template
 
-terraformをサクッと導入するための自分用スケルトン
+terraformをサクッと導入するための自分用テンプレート
 
 ## 導入方法
 
